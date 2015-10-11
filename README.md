@@ -8,10 +8,10 @@ As for now, there is no attachment for the case of the OpenBCI board.
 
 
 Final render:
-![](https://raw.githubusercontent.com/Deams51/UltracortexM3/f7efdd1463ccb52536fd2b273e852dfb640a887b/Render.JPG)
+![](https://raw.githubusercontent.com/Deams51/M3Redesigned/master/Render.JPG)
 
 Shematics:
-![](https://raw.githubusercontent.com/Deams51/UltracortexM3/master/Final_Headset_Numbered.JPG)
+![](https://raw.githubusercontent.com/Deams51/M3Redesigned/master/Final_Headset_Numbered.JPG)
 
 
 
