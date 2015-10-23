@@ -13,5 +13,7 @@ Final render:
 Shematics:
 ![](https://raw.githubusercontent.com/Deams51/M3Redesigned/master/Final_Headset_Numbered.JPG)
 
+Front-side view:
+![](https://raw.githubusercontent.com/Deams51/M3Redesigned/master/Final_Headset_front_side_view.JPG)
 
-
+You can find an stl file with the headset assembled here: https://github.com/Deams51/M3Redesigned/blob/master/STL/Final_Headset_full.STL
